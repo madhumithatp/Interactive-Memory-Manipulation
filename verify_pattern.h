@@ -1,0 +1,3 @@
+
+
+void verify_pattern();
